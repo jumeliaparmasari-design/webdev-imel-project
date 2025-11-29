@@ -120,4 +120,9 @@ nav ul {
     font-size: 18px;
     transition: font-size 0.3s ease;
 }
+/* Edit kecil untuk test commit */
+body {
+    background-color: #f1f1f1;
+}
+
 }

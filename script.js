@@ -49,3 +49,5 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 });
+// Edit test: tampilkan console log
+console.log("Perubahan berhasil di-commit!");
